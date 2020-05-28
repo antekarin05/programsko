@@ -1,0 +1,1 @@
+{"Ante Antic": {"Programiranje 1": 4, "Linearna algebra": 4, "Matematica analiza": 5}}
